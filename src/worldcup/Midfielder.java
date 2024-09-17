@@ -1,4 +1,3 @@
-
 package worldcup;
 
 public class Midfielder {

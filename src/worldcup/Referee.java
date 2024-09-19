@@ -8,6 +8,7 @@ public class Referee {
     /** bout the referee's whistle */
     String whisper;
     double tolerance;
+    
 
     /**
      *  Puts the referee in ruling mode

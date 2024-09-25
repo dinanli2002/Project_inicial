@@ -1,6 +1,6 @@
 package worldcup;
 
-public class Midfielder extends Person{
+public class Midfielder extends Player{
 	private String vision;
 
 	public void organize() {

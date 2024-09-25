@@ -1,6 +1,6 @@
 package worldcup;
 
-public class Midfielder {
+public class Midfielder extends Person{
 	private Boolean vision;
 	
 
